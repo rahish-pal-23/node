@@ -1,4 +1,4 @@
-edited by rahish
+Edited by rahish
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
